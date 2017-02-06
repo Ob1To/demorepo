@@ -1,0 +1,8 @@
+{
+  "linux-x64-prod": {
+    "update": "https://my.pcloud.com/publink/show?code=XZhDelZunuGvsjXDoSqGyUp350TMLwFLd7X",
+    "version": "0.0.1",
+    "platform": "linux",
+    "readme": "First version"
+  }
+}
